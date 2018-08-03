@@ -1,0 +1,27 @@
+ {
+        if [type] == 'idu_item' {
+                mutate {
+                        rename => { "count" => "idu-item-master" }
+                }
+				date {
+						add_field => { "count_id" => %{+HH}}
+				}
+        }
+        if [type] == 'erp_ihds' {
+                mutate {
+                        rename => { "count" => "erp_ihds_tree" }
+                }
+				date {
+						add_field => { "count_id" => %{+HH}}
+				}
+        }
+}
+
+
+ ruby {
+    code => "event.set('count_id', event.get('@timestamp').strftime('%HH').split(':')[1])"
+  }
+  
+  add_field => { "count_id" => "%{@timestamp}" }
+  
+  (2018-07-30T09:15:00.237Z).split(':')[1]
