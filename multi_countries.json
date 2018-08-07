@@ -1,0 +1,112 @@
+{
+  "de": {
+    "idu_Count": 11017,
+    "erp_Count": 684200,
+    "ratio": 1.62
+  },
+  "rs": {
+    "idu_Count": 0,
+    "erp_Count": 96561,
+    "ratio": 0
+  },
+  "be": {
+    "idu_Count": 0,
+    "erp_Count": 1074601,
+    "ratio": 0
+  },
+  "ru": {
+    "idu_Count": 0,
+    "erp_Count": 380017,
+    "ratio": 0
+  },
+  "pt": {
+    "idu_Count": 0,
+    "erp_Count": 161525,
+    "ratio": 0
+  },
+  "bg": {
+    "idu_Count": 0,
+    "erp_Count": 67765,
+    "ratio": 0
+  },
+  "in": {
+    "idu_Count": 0,
+    "erp_Count": 66502,
+    "ratio": 0
+  },
+  "hr": {
+    "idu_Count": 0,
+    "erp_Count": 92116,
+    "ratio": 0
+  },
+  "cn": {
+    "idu_Count": 0,
+    "erp_Count": 267597,
+    "ratio": 0
+  },
+  "it": {
+    "idu_Count": 0,
+    "erp_Count": 177177,
+    "ratio": 0
+  },
+  "fr": {
+    "idu_Count": 8,
+    "erp_Count": 176024,
+    "ratio": 0.01
+  },
+  "ua": {
+    "idu_Count": 0,
+    "erp_Count": 193545,
+    "ratio": 0
+  },
+  "hu": {
+    "idu_Count": 0,
+    "erp_Count": 219157,
+    "ratio": 0
+  },
+  "es": {
+    "idu_Count": 0,
+    "erp_Count": 147093,
+    "ratio": 0
+  },
+  "kz": {
+    "idu_Count": 0,
+    "erp_Count": 288469,
+    "ratio": 0
+  },
+  "cz": {
+    "idu_Count": 0,
+    "erp_Count": 143906,
+    "ratio": 0
+  },
+  "md": {
+    "idu_Count": 0,
+    "erp_Count": 57120,
+    "ratio": 0
+  },
+  "sk": {
+    "idu_Count": 0,
+    "erp_Count": 106084,
+    "ratio": 0
+  },
+  "pl": {
+    "idu_Count": 0,
+    "erp_Count": 324938,
+    "ratio": 0
+  },
+  "ro": {
+    "idu_Count": 0,
+    "erp_Count": 229501,
+    "ratio": 0
+  },
+  "nl": {
+    "idu_Count": 0,
+    "erp_Count": 471197,
+    "ratio": 0
+  },
+  "tr": {
+    "idu_Count": 0,
+    "erp_Count": 183931,
+    "ratio": 0
+  }
+}
